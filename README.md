@@ -61,3 +61,15 @@ Incorporate more instruments like Guitar, Violin, or Drums in the background.
 
 🧠 Emotion-Aware Music Generation
 Use emotion detection from lyrics to control melody mood (e.g., sad, happy, inspiring).
+
+
+
+## 🎧 Sample Output
+
+Listen to the generated song below:
+
+<audio controls>
+  <source src="https://github.com/Bhavana22wh1a1210/Mini_Proj_MUSE_AI/blob/main/audio_output.wav?raw=true" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+
