@@ -18,12 +18,19 @@
 ## 📁 Project Structure
 
 Mini_Proj_MUSE_AI/
+
 ├── src/
+
 │   ├── core.py           # All main functions
+
 │   └── run.py            # Runs the entire pipeline
+
 ├── output/               # (Auto-created) for audio files
+
 ├── requirements.txt      # All Python dependencies
+
 ├── .gitignore            # Files to exclude
+
 └── README.md             # Project overview (this file)
 
 
